@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/fb7e1142-91cd-49ac-884f-af202d92a2a7)
 
 
-# Jeu_Save_Private_Eco
+# Save Private Eco!
 
 ​Il s'agit d'un shooter défensif destiné à intéresser particulièrement aux jeunes, mais il est ouvert à tous. 
 Le personnage Eco, l'écosystème représenté sous la forme d'une planète, vous explique quels insectes non indigènes en Suisse causent des dommages à l'environnement. Le joueur devra défendre habilement la planète contre ces insectes tout en faisant attention à ne pas toucher les insectes indigènes similaires. Eco fournira un petit identikit visible sur les sprites des insectes, afin que vous puissiez les distinguer. C'est pourquoi j'ai exploité le potentiel de l'IA de création d'images de Dall-e, en remodelant le résultat pour le rendre conforme au jeu. Les insectes sont tirés des réglementations cantonales et suisses relatives aux problèmes posés par les insectes non indigènes sur le territoire.

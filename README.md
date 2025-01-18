@@ -31,8 +31,11 @@ Ce jeu a été développé dans le cadre du cours "Développement de jeux vidéo
 - Life bar (block): CeroExe
 - Explosion (insectes): BDragon1727
 - image Moustique Tigre: GLZ SUPSI 2016 1; https://www4.ti.ch/dss/dsp/icm/zanzare-e-zanzara-tigre/presentazione
-- image Tarle Asiatique:  Yao Lishen CC-BY-SA-3.0
-- image 
+- image capricorne asiatique:  Yao Lishen CC-BY-SA-3.0
+- image capricorne commun: Entomart; http://www.entomart.be/ 
+- image Scarabée japonais: www.ti.ch/coleottero-giapponese
+- image Scarabée commun: Dor Beetle. Geotrupes stercorarius. Scarabidae - Flickr - gailhampshire; https://it.wikipedia.org/wiki/Scarabeo_stercorario#/media/File:Dor_Beetle._Geotrupes_stercorarius%5E_._Scarabidae_-_Flickr_-_gailhampshire_(1).jpg 
+  
 
 Une grande partie des images (les insectes, le canon, le projectile, le fond des niveaux, les cercles autour de la terre, etc.) ont été créées soit par moi directement, soit en exploitant les possibilités de DALL-E et remodelées après plusieurs testes pour les rendre plus conformes au jeu. Dans les autres cas, il s'agit d'un matériel royalty free.
 

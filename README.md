@@ -4,3 +4,9 @@
 
 sources: [https://www.bafu.admin.ch/bafu/fr/home/themes/biotechnologie/info-specialistes/especes-exotiques-envahissantes.html 
 ](https://www.bafu.admin.ch/bafu/fr/home/themes/biotechnologie/info-specialistes/especes-exotiques-envahissantes.html)
+
+## License
+- Terre: Deep-Fold
+- Grass background dialogues: ribbitin in r/PixelArt reddit
+- Life bar (block): CeroExe
+- BDragon1727

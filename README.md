@@ -43,7 +43,7 @@ Ce jeu a été développé dans le cadre du cours "Développement de jeux vidéo
 - Level 2 song: Kim Lightyear - You and I, Lightyeartraxx
 - Level 3 song: Quad Mod, TipTopTomCat
 - Dialogues scenes: 8-bit Loop, NathanielThomasBrack
-- Écran finale: Colorful Potions, Kaptin_Random (Freesound)
+- Écran finale song: Colorful Potions, Kaptin_Random (Freesound)
 
   
 Une grande partie des images (les insectes, le canon, le projectile, le fond des niveaux, les cercles autour de la terre, etc.) ont été créées soit par moi directement, soit en exploitant les possibilités de DALL-E et remodelées après plusieurs testes pour les rendre plus conformes au jeu. Dans les autres cas, il s'agit d'un matériel royalty free.

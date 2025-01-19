@@ -8,6 +8,10 @@ Le personnage Eco, l'écosystème représenté sous la forme d'une planète, vou
 
 Par ailleurs, en ce qui concerne l'aspect ludique, le jeu est divisé en 3 niveaux de difficulté croissante, ce qui, je l'espère, permettra d'exercer les contraintes oculaires et de divertir tous les types de joueurs, des moins expérimentés aux plus expérimentés (le niveau 3 étant délibérément plus exigeant).
 
+Le jeu est conçu pour être joué en plein écran. 
+
+Enjoy!
+
 sources: [https://www.bafu.admin.ch/bafu/fr/home/themes/biotechnologie/info-specialistes/especes-exotiques-envahissantes.html 
 ](https://www.bafu.admin.ch/bafu/fr/home/themes/biotechnologie/info-specialistes/especes-exotiques-envahissantes.html)
 
@@ -26,7 +30,7 @@ Pour jouer en locale: Télécharger le répertoire et l'exécuter sur un éditeu
 Ce jeu a été développé dans le cadre du cours "Développement de jeux vidéo 2D" (SLI, Lettres, UNIL), encadré par Isaac Pante et Johan Cuda. SP2024.
 
 ## License
-- Terre: Deep-Fold
+- La Terre dans les niveaux de jeu: Deep-Fold
 - Grass background dialogues: ribbitin in r/PixelArt reddit
 - Life bar (block): CeroExe
 - Explosion (insectes): BDragon1727
@@ -34,9 +38,13 @@ Ce jeu a été développé dans le cadre du cours "Développement de jeux vidéo
 - image capricorne asiatique:  Yao Lishen CC-BY-SA-3.0
 - image capricorne commun: Entomart; http://www.entomart.be/ 
 - image Scarabée japonais: www.ti.ch/coleottero-giapponese
-- image Scarabée commun: Dor Beetle. Geotrupes stercorarius. Scarabidae - Flickr - gailhampshire; https://it.wikipedia.org/wiki/Scarabeo_stercorario#/media/File:Dor_Beetle._Geotrupes_stercorarius%5E_._Scarabidae_-_Flickr_-_gailhampshire_(1).jpg 
-  
+- image Scarabée commun: Dor Beetle. Geotrupes stercorarius. Scarabidae - Flickr - gailhampshire; https://it.wikipedia.org/wiki/Scarabeo_stercorario#/media/File:Dor_Beetle._Geotrupes_stercorarius%5E_._Scarabidae_-_Flickr_-_gailhampshire_(1).jpg
+- Level 1 song: Pixel Song #21, freesound_community
+- Level 2 song: Kim Lightyear - You and I, Lightyeartraxx
+- Level 3 song: Quad Mod, TipTopTomCat
+- Dialogues scenes: 8-bit Loop, NathanielThomasBrack
 
+  
 Une grande partie des images (les insectes, le canon, le projectile, le fond des niveaux, les cercles autour de la terre, etc.) ont été créées soit par moi directement, soit en exploitant les possibilités de DALL-E et remodelées après plusieurs testes pour les rendre plus conformes au jeu. Dans les autres cas, il s'agit d'un matériel royalty free.
 
 ## Credits

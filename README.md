@@ -22,7 +22,7 @@ sources: [https://www.bafu.admin.ch/bafu/fr/home/themes/biotechnologie/info-spec
 - Touche 'S' pour activer les secondes de slomotion (Activé après que la barre autour de la planète se soit remplie et soit devenue orange)
 
 ## Lancement
-Pour jouer en ligne cliquer sur le lien: 
+Pour jouer en ligne cliquer sur le lien: https://didixieland.itch.io/save-private-eco 
 Pour jouer en locale: Télécharger le répertoire et l'exécuter sur un éditeur de code tel que VS code (go live)
 
 ## Contexte de développement
